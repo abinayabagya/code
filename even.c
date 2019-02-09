@@ -5,12 +5,12 @@ scanf("%d",&n);
 
 if(n%2==0)
 {
-    printf("even");
+    printf("Even");
 } 
 
 else if(n%2>0)
 {
-   printf("odd"); 
+   printf("Odd"); 
 }
 else
 {
